@@ -32,7 +32,7 @@ Images of funds being added to the contract notice the balance increasing each t
 ![A screenshot of 5 ETH being deposit. Balance was 11 now 16 ETH.](images/five_ether.png)<br>
 
 
-Images of funds being withdrawn from the contract. Notice the balance decreasing each time:
+Images of funds being withdrawn from the contract. Notice the balance(in wei) decreasing each time and the last to withdraw amount and address changing to the corresponding values:
 ![A screenshot of 5 ETH being withdrawn. Balance was at 16 now at 11](images/five_with.png)<br>
 ![A screenshot of 10 ETH being withdrawn. Balance was at 11 now at 1](images/ten_with_2.png)<br>
 
